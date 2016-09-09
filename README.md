@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hello there. I am returning to programming after a long time. 
+Hope i will enjoy this journey
+
